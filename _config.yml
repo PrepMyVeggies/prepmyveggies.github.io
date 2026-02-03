@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: PrepMyVeggies Recipe Page
-description: Bookmark this to keep an eye on my project updates!
+description: Fast, student-friendly recipes using PrepMyVeggies cut packs.
+show_downloads: false
